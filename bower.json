@@ -1,0 +1,25 @@
+{
+  "name": "test-app",
+  "version": "0.0.1",
+  "dependencies": {
+    "sass-bootstrap": "~2.3.0",
+    "requirejs": "~2.1.4",
+    "modernizr": "~2.6.2",
+    "jquery": "~1.9.1",
+    "underscore-amd": "~1.4.4",
+    "backbone.marionette": "~1.0.2",
+    "backbone": "~1.0.0",
+    "handlebars": "~1.0.0",
+    "js-logger": "git://github.com/creynders/js-logger.git",
+    "requirejs-i18n": "~2.0.2",
+    "jquery-migrate": "~1.2.0",
+    "requirejs-text": "~2.0.6",
+    "backbone.localStorage": "~1.1.4",
+    "underscore.string": "~2.3.1",
+    "marionette.formview": "latest"
+  },
+  "devDependencies": {
+    "mocha": "~1.11.0",
+    "chai": "1.6.1"
+  }
+}
